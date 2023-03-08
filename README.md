@@ -1,4 +1,5 @@
-![Admin dashboard](https://user-images.githubusercontent.com/106715042/223657418-d5c1bec3-b747-4c3d-8186-e86d12a53ced.jpg)
+![Dashboard](https://user-images.githubusercontent.com/106715042/223657947-e5134ae4-f065-475d-854c-4095f0c56582.png)
+
 
 
 # Getting Started with Create React App
